@@ -18,6 +18,8 @@ class Dog:
 
 # 実例化
 my_dog = Dog('kawayi kitty', 10)
+
+print("--excute--03")
 my_dog.sit()
 my_dog.roll_over()
 
